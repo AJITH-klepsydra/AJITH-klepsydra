@@ -30,8 +30,8 @@ ___
 ___
 
 
-<a href="https://github.com/niranjanneeru/Covid-19-Tracker">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&&theme=radical&cache_seconds=86400&show_icons=true" />
+<a href="https://github.com/AJITH-klepsydra/pyweek2020">
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=pyweek2020&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
 
