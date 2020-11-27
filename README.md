@@ -28,7 +28,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=gruvbox&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
 
 ___
-<img src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" width = 1000px heigth = 1400px>
+<img src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" width = 1000px heigth = 700px>
 
 
 ---
