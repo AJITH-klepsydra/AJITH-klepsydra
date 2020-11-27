@@ -31,17 +31,17 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/pyweek2020">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=pyweek2020&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=pyweek2020&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/viscot-app">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/TKM-CONNECT">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
 </a>
 
 
