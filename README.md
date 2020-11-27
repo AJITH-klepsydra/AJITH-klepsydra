@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ___
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AJITH-klepsydra&show_icons=true&include_all_commits=true&theme=cobalt&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AJITH-klepsydra&show_icons=true&include_all_commits=true&theme=gruvbox&cache_seconds=86400)
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=cobalt&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=gruvbox&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
 
 ___
 
