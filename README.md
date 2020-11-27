@@ -41,7 +41,7 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/TKM-CONNECT">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=synthwave&cache_seconds=86400&show_icons=true" />
 </a>
 
 
@@ -50,7 +50,7 @@ ___
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/memoir">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=synthwave&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/tkmtribe">
@@ -59,5 +59,5 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/Image_To_Ascii_Art">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=synthwave&cache_seconds=86400&show_icons=true" />
 </a>
