@@ -29,7 +29,7 @@ ___
 
 ___
 
-	<img height=170px width=400px src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" />
+	<img src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" width = 1000px heigth = 1400px>
 
 ___
 
