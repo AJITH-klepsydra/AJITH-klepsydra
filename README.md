@@ -25,7 +25,7 @@ ___
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=dracula&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
 
 ___
 
