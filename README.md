@@ -46,11 +46,11 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/productivity-Timer/">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=productivity-Timer&&theme=&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=productivity-Timer&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/memoir">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/tkmtribe">
