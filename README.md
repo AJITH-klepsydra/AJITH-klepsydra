@@ -31,33 +31,33 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/pyweek2020">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=pyweek2020&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=pyweek2020&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/viscot-app">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/TKM-CONNECT">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=highcontrast&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/productivity-Timer/">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=productivity-Timer&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=productivity-Timer&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/memoir">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=memoir&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/tkmtribe">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=tkmtribe&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=tkmtribe&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/Image_To_Ascii_Art">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=gruvbox&cache_seconds=86400&show_icons=true" />
 </a>
