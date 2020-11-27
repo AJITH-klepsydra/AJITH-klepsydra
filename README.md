@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ___
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AJITH-klepsydra&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AJITH-klepsydra&show_icons=true&include_all_commits=true&theme=cobalt&cache_seconds=86400)
 
 ___
 
