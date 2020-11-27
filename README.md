@@ -28,7 +28,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJITH-klepsydra&layout=compact&theme=gruvbox&cache_seconds=86400)](https://github.com/AJITH-klepsydra)
 
 
-<img src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" align=center width = 500px heigth = 700px>
+<img src="https://github.com/AJITH-klepsydra/AJITH-klepsydra/blob/main/FEW%20of%20my%20projects!.png?raw=true" align="center" width = 500px heigth = 700px>
 
 
 <a href="https://github.com/AJITH-klepsydra/pyweek2020">
@@ -62,3 +62,4 @@ ___
 <a href="https://github.com/AJITH-klepsydra/Image_To_Ascii_Art">
   <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=merko&cache_seconds=86400&show_icons=true" />
 </a>
+ 
