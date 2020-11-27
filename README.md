@@ -36,12 +36,12 @@ ___
 
 
 <a href="https://github.com/AJITH-klepsydra/viscot-app">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=cobalt&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=viscot-app&&theme=merko&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/TKM-CONNECT">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=cobalt&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=TKM-CONNECT&&theme=merko&cache_seconds=86400&show_icons=true" />
 </a>
 
 
@@ -54,10 +54,10 @@ ___
 </a>
 
 <a href="https://github.com/AJITH-klepsydra/tkmtribe">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=tkmtribe&&theme=cobalt&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=tkmtribe&&theme=merko&cache_seconds=86400&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/AJITH-klepsydra/Image_To_Ascii_Art">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=cobalt&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=AJITH-klepsydra&repo=Image_To_Ascii_Art&&theme=merko&cache_seconds=86400&show_icons=true" />
 </a>
