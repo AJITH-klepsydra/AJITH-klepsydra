@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Connect 
-<a href="<a href="https://www.linkedin.com/in/ajith-kumar-p-m-43aa42192/"><b>Website</b></a>
+<a href="https://ajith-kumar.ninja/"><b>Website</b></a>
 <a href="https://www.linkedin.com/in/ajith-kumar-p-m-43aa42192/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20px height=20px></a>
 <a href="https://www.youtube.com/channel/UCeYv5QGV6JPRugd8w98pVGw"><img src = "https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" width=20px height=20px></a>
 <a href="https://www.instagram.com/ajith_k_p_m/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=20px height=20px></a>
